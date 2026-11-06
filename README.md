@@ -1,2 +1,2 @@
 # ReplaceThumbnail
-Replace thumnail from Soundcloud and Apple Music
+Replace thumbnail from Soundcloud and Apple Music
